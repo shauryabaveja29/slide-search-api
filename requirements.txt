@@ -1,6 +1,8 @@
-flask
-sentence-transformers
-faiss-cpu
-numpy
-flask-cors
-gunicorn
+flask==3.0.0
+flask-cors==4.0.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+numpy==1.24.3
+gunicorn==21.2.0
+requests==2.31.0
+urllib3==2.0.7
