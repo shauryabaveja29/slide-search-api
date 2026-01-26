@@ -6,7 +6,7 @@ import pickle
 app = Flask(__name__)
 
 print("Loading everything...")
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('paraphrase-MiniLM-L3-v2')
 index = faiss.read_index('slides_index.faiss')
 
 with open('slides_metadata.pkl', 'rb') as f:
@@ -49,4 +49,5 @@ def search():
     })
 
 if __name__ == '__main__':
+
     app.run(port=5000)
