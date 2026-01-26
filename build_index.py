@@ -7,7 +7,7 @@ print("Starting...")
 
 # Load the model
 print("Loading AI model...")
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('paraphrase-MiniLM-L3-v2')
 
 # Load your slides
 print("Loading slides...")
@@ -36,4 +36,5 @@ with open('slides_metadata.pkl', 'wb') as f:
 
 print("Done! Files created:")
 print("- slides_index.faiss")
+
 print("- slides_metadata.pkl")
