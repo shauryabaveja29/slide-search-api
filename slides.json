@@ -1,0 +1,20 @@
+[
+  {
+    "id": "video_marketing_pdf_04",
+    "type": "page",
+    "deck_name": "Explore: Video Marketing",
+    "title": "How the ELO System Works",
+    "url": "video_marketing",
+    "slide_id": 4,
+    "what": "Learn how ELO ranking works for AI video tools. Compare video quality like chess rankings. Helps choose between Sora, Runway, Pika."
+  },
+  {
+    "id": "video_marketing_pdf_07",
+    "type": "page",
+    "deck_name": "Explore: Video Marketing",
+    "title": "Startup Beats Google",
+    "url": "video_marketing",
+    "slide_id": 7,
+    "what": "Hailuo startup beats Google Veo. Cost comparison: $8 vs $250 per month. Cheap AI video tools. Budget friendly. Affordable alternative."
+  }
+]
