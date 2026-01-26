@@ -7,12 +7,6 @@ import pickle
 app = Flask(__name__)
 CORS(app)
 
-from sentence_transformers import SentenceTransformer
-import faiss
-import pickle
-
-app = Flask(__name__)
-
 print("Loading everything...")
 model = SentenceTransformer('paraphrase-MiniLM-L3-v2')
 index = faiss.read_index('slides_index.faiss')
@@ -36,11 +30,9 @@ def search():
     if not query:
         return jsonify({"error": "Please provide a search query"}), 400
     
-    # Search
     query_embedding = model.encode([query])
     distances, indices = index.search(query_embedding, 3)
     
-    # Get results
     results = []
     for i, idx in enumerate(indices[0]):
         slide = slides[idx]
@@ -57,6 +49,4 @@ def search():
     })
 
 if __name__ == '__main__':
-
-    app.run(port=5000)
-
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
