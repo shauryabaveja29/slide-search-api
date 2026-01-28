@@ -1,20 +1,92 @@
 [
   {
-    "id": "video_marketing_pdf_04",
+    "id": "tragcag_pdf_01",
     "type": "page",
-    "deck_name": "Explore: Video Marketing",
-    "title": "How the ELO System Works",
-    "url": "video_marketing",
-    "slide_id": 4,
-    "what": "Learn how ELO ranking works for AI video tools. Compare video quality like chess rankings. Helps choose between Sora, Runway, Pika."
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 1,
+    "what": "Title and introduction slide setting the context for how transformers, RAG, and CAG enable the next generation of intelligent, personalized marketing at scale."
   },
   {
-    "id": "video_marketing_pdf_07",
+    "id": "tragcag_pdf_02",
     "type": "page",
-    "deck_name": "Explore: Video Marketing",
-    "title": "Startup Beats Google",
-    "url": "video_marketing",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "What is a Transformer in Generative AI?",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 2,
+    "what": "Explains transformer architecture as the foundation of large language models, focusing on attention mechanisms, context understanding, and why this technology enables fluent, human-like text generation."
+  },
+  {
+    "id": "tragcag_pdf_03",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "Introducing Retrieval-Augmented Generation (RAG)",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 3,
+    "what": "Introduces Retrieval-Augmented Generation and explains how it connects large language models with real-time external knowledge sources to keep AI outputs current and accurate."
+  },
+  {
+    "id": "tragcag_pdf_04",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "How RAG Works: Step-by-Step",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 4,
+    "what": "Walks through the RAG process step by step, showing how a user query triggers semantic vector search, augments the prompt, and produces a grounded, factual LLM response."
+  },
+  {
+    "id": "tragcag_pdf_05",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "Why RAG Works for Marketing",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 5,
+    "what": "Explains why RAG is powerful for marketing use cases, highlighting real-time knowledge access, reduced hallucinations, and the ability to generate dynamic, trustworthy content."
+  },
+  {
+    "id": "tragcag_pdf_06",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "Cache-Augmented Generation (CAG)",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 6,
+    "what": "Introduces Cache-Augmented Generation and explains how static, high-value knowledge is preloaded into a model’s cache for instant access without repeated retrieval calls."
+  },
+  {
+    "id": "tragcag_pdf_07",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "RAG vs CAG: Key Differences for Marketers",
+    "url": "transformers_rag_cag_marketing",
     "slide_id": 7,
-    "what": "Hailuo startup beats Google Veo. Cost comparison: $8 vs $250 per month. Cheap AI video tools. Budget friendly. Affordable alternative."
+    "what": "Compares RAG and CAG across data freshness, latency, cost, and ideal use cases, helping marketers choose the right approach based on content needs."
+  },
+  {
+    "id": "tragcag_pdf_08",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "Combining RAG and CAG: Best of Both Worlds",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 8,
+    "what": "Describes a hybrid architecture that combines CAG for static knowledge and RAG for dynamic data, achieving an optimal balance of speed, cost efficiency, and accuracy."
+  },
+  {
+    "id": "tragcag_pdf_09",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "Marketing Use Cases Powered by RAG & CAG",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 9,
+    "what": "Highlights real-world marketing applications such as personalized campaigns, instant chatbot support, dynamic social media content, and consistent compliance messaging."
+  },
+  {
+    "id": "tragcag_pdf_10",
+    "type": "page",
+    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
+    "title": "The Future of Marketing AI: Strategic Adoption",
+    "url": "transformers_rag_cag_marketing",
+    "slide_id": 10,
+    "what": "Concluding slide outlining how marketers should adopt transformer-based AI strategically, match architectures to use cases, and scale AI initiatives thoughtfully."
   }
 ]
