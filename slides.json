@@ -1,92 +1,101 @@
 [
   {
-    "id": "idea_to_screen_pdf_01",
+    "id": "gen_ai_marketing_pdf_01",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "Play: From Idea to Screen",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Generative AI in Marketing",
+    "url": "generative_ai_marketing",
     "slide_id": 1,
-    "what": "Title slide introducing lightning-fast video production using AI tools and parallel workflows. Cover page for the module on transforming ideas into finished videos."
+    "what": "Title slide introducing Generative AI in Marketing course covering concepts, tools, and hands-on workflows. Application-oriented guide for MBA and executive learners."
   },
   {
-    "id": "idea_to_screen_pdf_02",
+    "id": "gen_ai_marketing_pdf_02",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "Work with a Parallel Video RAG",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Gen AI Landscape for Marketing",
+    "url": "generative_ai_marketing",
     "slide_id": 2,
-    "what": "Getting started with Invideo AI v2.0. Steps include: create Google account, use v2.0 model, enter prompt (example: 'How will AI change India's construction sector?'), select format/audience/style, edit script and clips. Security tip: disconnect Google access after use."
+    "what": "Overview of AI landscape: Foundation Models (GPT-4, Claude), Fine-Tuned Models for marketing tasks, and Application Tools (ChatGPT, Midjourney, Runway). Maps AI applications across marketing funnel - Awareness (ad copy, social media), Conversion (landing pages, email campaigns), and Retention (personalized messaging, customer support). Includes tool selection criteria: output quality, integration, cost, brand safety, and compliance."
   },
   {
-    "id": "idea_to_screen_pdf_03",
+    "id": "gen_ai_marketing_pdf_03",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "What Happens in Invideo v2.0?",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Using LLMs for Marketing Content",
+    "url": "generative_ai_marketing",
     "slide_id": 3,
-    "what": "Explains Parallel Retrieval-Augmented Generation (RAG). Invideo v2.0 simultaneously retrieves video clips from stock libraries and generates/selects background music. Parallel processing reduces production time from days to minutes."
+    "what": "Explains Large Language Models (LLMs) and their limitations (hallucinations, bias, overconfidence). Four-step prompting framework: Define Role, Define Task, Add Details, Refine Outputs. Applications include ad copy variations, email campaigns, and website content using ChatGPT, Claude, and Jasper."
   },
   {
-    "id": "idea_to_screen_pdf_04",
+    "id": "gen_ai_marketing_pdf_04",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "Lights. Camera. Prompt.",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Transformer & Attention: Why AI Understands Context",
+    "url": "generative_ai_marketing",
     "slide_id": 4,
-    "what": "Example of detailed video prompting with three components: Visual (frontal view, gothic frame, figure emerging, candlelight), Musical (cello, harpsichord, violins, timpani), and Mood (mysterious, haunting, cinematic). Shows how to write effective prompts for AI video generation."
+    "what": "Technical explanation of Transformer architecture, Attention mechanism (focusing on relevant context), Tokens & Embeddings, and Context Windows. Practical tips for maintaining brand voice: define tone early, reference previous outputs, use style guides. Strategies for when context is lost: re-state guidelines, summarize key points, start new chat."
   },
   {
-    "id": "idea_to_screen_pdf_05",
+    "id": "gen_ai_marketing_pdf_05",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "Optimize with Clipchamp",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "RAG, Perplexity & Accuracy",
+    "url": "generative_ai_marketing",
     "slide_id": 5,
-    "what": "Microsoft Clipchamp features: Trim & Cut for precise editing, Transitions for smooth scene changes, Text Overlays for titles/captions, and Color Grade for cinematic looks. Cloud-based tool for polishing AI-generated videos."
+    "what": "Explains why LLMs hallucinate and introduces Retrieval-Augmented Generation (RAG) - Retrieve from trusted sources, Augment with AI, Generate fact-based output. Covers Perplexity AI workflow for factual research and marketing applications: policy pages, competitive research, market trends, product specifications. Warning: confidence doesn't equal correctness."
   },
   {
-    "id": "idea_to_screen_pdf_06",
+    "id": "gen_ai_marketing_pdf_06",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "Edit with Descript",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Prompt Engineering as a Core Marketing Skill",
+    "url": "generative_ai_marketing",
     "slide_id": 6,
-    "what": "Descript tutorial: access website, create Google account, upload video/provide URL, edit video by editing text. Revolutionary text-based video editing - edit transcribed text and the video changes automatically. Disconnect Google after use."
+    "what": "Five-element prompt structure: Role, Objective, Context, Constraints, and Output Format. Compares Zero-Shot (AI infers) vs Few-Shot (provide examples) prompting. Example prompt for eco-friendly sneakers targeting Gen Z. Applications: persona-based ads, localization, A/B testing using ChatGPT, Jasper, and Notion AI."
   },
   {
-    "id": "idea_to_screen_pdf_07",
+    "id": "gen_ai_marketing_pdf_07",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "How Descript Works",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Gen AI for Performance Marketing & Growth",
+    "url": "generative_ai_marketing",
     "slide_id": 7,
-    "what": "Four AI technologies powering Descript: Deep Learning (speech-to-text, voice synthesis), NLP (content understanding), Generative AI (avatars, voiceovers), and Computer Vision (scene analysis, effects). Technical breakdown of the AI behind text-based video editing."
+    "what": "Distinguishes Generative AI (creates content) from Predictive AI (analyzes patterns). Four-step workflow: Generate 20-30 ad variants, Shortlist themes, Test manually for top performers, Optimize with data. Applications in Ads (Google Performance Max, Copy.ai), SEO (Surfer SEO), and CRO (landing page variants). Emphasizes human review and faster experimentation cycles."
   },
   {
-    "id": "idea_to_screen_pdf_08",
+    "id": "gen_ai_marketing_pdf_08",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "Explore: Use AI to Learn About AI",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "AI-Driven Personalization & Customer Experience",
+    "url": "generative_ai_marketing",
     "slide_id": 8,
-    "what": "QR code for AI learning interface. Four steps: scan code, sign in with Google (temporary), read AI-generated summary, ask recommended or custom questions. Meta-learning approach using AI to understand AI concepts."
+    "what": "Four-stage personalization cycle: Customer Data input, AI Generation of personalized content, Delivery via email/web/chatbot, and Feedback Loop for continuous optimization. Explains real-time adaptation beyond static segments and risks of over-personalization (privacy, uncanny valley). Applications: personalized emails, dynamic landing pages, AI chatbots using ChatGPT, HubSpot AI, and Salesforce Einstein."
   },
   {
-    "id": "idea_to_screen_pdf_09",
+    "id": "gen_ai_marketing_pdf_09",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "AI Chat Interface",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Creating Marketing Videos Using Gen AI",
+    "url": "generative_ai_marketing",
     "slide_id": 9,
-    "what": "AI chat interface features: emoji reactions, message counter, suggested questions, conversation memory, input field with character count, animated send button, history scroll, and clear chat option. UX design elements for intuitive AI interaction."
+    "what": "Compares traditional (days/weeks, expensive) vs AI-assisted video workflow (hours, cost-effective). Five-step process: Generate Script (ChatGPT), Paste to Tool, Select Style/templates, Auto-Captions, and Export. Covers Text-to-Video and Avatar-Based approaches. Tools: Runway, Pictory, Synthesia, Descript. Ethical note: disclose AI-generated content."
   },
   {
-    "id": "idea_to_screen_pdf_10",
+    "id": "gen_ai_marketing_pdf_10",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen",
-    "title": "From Idea to Screen: Your Workflow",
-    "url": "idea_to_screen",
+    "deck_name": "Generative AI in Marketing",
+    "title": "AI-Generated Voice & Music for Branding",
+    "url": "generative_ai_marketing",
     "slide_id": 10,
-    "what": "Complete workflow summary: Step 1 - Invideo AI (generate with RAG), Step 2 - Descript (edit like document), Step 3 - Clipchamp (optimize and polish), Step 4 - Explore (learn with AI). End-to-end video production pipeline from concept to finished content."
+    "what": "Explains how neural networks create audio from training data. Voice Cloning (requires permission) vs Synthetic voices. Four-step workflow: Paste Script, Choose Voice/describe mood, Generate Versions, Select Audio. Applications: brand jingles, podcast intros, video voiceovers. Tools: ElevenLabs, Suno, Adobe Podcast. Copyright warning: verify commercial rights."
+  },
+  {
+    "id": "gen_ai_marketing_pdf_11",
+    "type": "page",
+    "deck_name": "Generative AI in Marketing",
+    "title": "Course Grading & How to Score an A",
+    "url": "generative_ai_marketing",
+    "slide_id": 11,
+    "what": "Application-focused grading: A grade for custom Gen AI project with implementation, B for working demo/prototype, C+ for attendance and basic participation. Individual and group work options. Key message: course rewards building, testing, and learning by doing, with creativity encouraged."
   }
 ]
