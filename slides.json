@@ -2,91 +2,91 @@
   {
     "id": "idea_to_screen_pdf_01",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Play: From Idea to Screen 🪄",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "Play: From Idea to Screen",
     "url": "idea_to_screen",
     "slide_id": 1,
-    "what": "Opening and title slide for the module 'Play: From Idea to Screen'. This slide introduces the overall journey of converting a creative idea into a finished video using AI tools, setting expectations for hands-on learning and experimentation."
+    "what": "Title and cover slide for the 'Play: From Idea to Screen' module. Features a bold header introducing lightning-fast video production using AI tools and parallel workflows. This slide sets the stage for a comprehensive guide on transforming creative concepts into finished video content through AI-powered processes."
   },
   {
     "id": "idea_to_screen_pdf_02",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Play: Lights. Camera. Prompt.",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "Work with a Parallel Video RAG",
     "url": "idea_to_screen",
     "slide_id": 2,
-    "what": "This slide introduces the concept of prompt-driven video creation. It explains how writing clear, descriptive text prompts can act like a script or director’s instructions, allowing AI tools to generate cinematic video content from words alone."
+    "what": "Step-by-step getting started guide for Invideo AI v2.0. This slide provides practical instructions for users including account setup through Google, selecting the v2.0 model, and prompting with creative ideas such as 'How will AI change India's construction sector?'. It covers format selection, audience targeting, style preferences, and editing capabilities for script, clips, and audio. Includes an important security reminder to disconnect Invideo from Google account after use."
   },
   {
     "id": "idea_to_screen_pdf_03",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Viki as 1890’s portrait hanging in Dracula",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "What Happens in Invideo v2.0?",
     "url": "idea_to_screen",
     "slide_id": 3,
-    "what": "A detailed example of an AI video prompt showing how rich descriptions influence output quality. The slide describes a character emerging from an ornate 1890s portrait in a gothic setting, along with specific music cues, demonstrating how visual and audio prompts work together."
+    "what": "Technical explanation of the Parallel Retrieval-Augmented Generation (RAG) system used by Invideo v2.0. Details how the platform simultaneously retrieves relevant video clips from stock media libraries while generating or selecting background music that matches the script's mood and pacing. Emphasizes the parallel processing approach where both visual and audio assets are assembled concurrently to create cohesive videos aligned with narrative intent, dramatically accelerating production time compared to sequential workflows."
   },
   {
     "id": "idea_to_screen_pdf_04",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Play: Optimize with Clipchamp",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "Lights. Camera. Prompt.",
     "url": "idea_to_screen",
     "slide_id": 4,
-    "what": "This slide introduces Microsoft Clipchamp as a post-generation optimization tool. It focuses on how AI-generated videos can be refined through trimming, formatting, resizing, and adding final edits to make them suitable for marketing or social platforms."
+    "what": "Detailed example of a comprehensive video generation prompt broken down into three key components. Visual prompt describes a frontal static view with medium angle, featuring an ornate gothic frame with a figure slowly emerging from a painting, shadows creeping across the canvas, and candles flickering in the background. Musical prompt specifies a slow atmospheric track with cello and harpsichord building with violins, dramatic timpani beat, orchestral swell, and eerie harpsichord echo. Mood is characterized as mysterious, haunting, and cinematic. This slide demonstrates the level of detail needed for effective AI video generation."
   },
   {
     "id": "idea_to_screen_pdf_05",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Play: Edit with Descript",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "Optimize with Clipchamp",
     "url": "idea_to_screen",
     "slide_id": 5,
-    "what": "Explains Descript’s unique text-based approach to video editing, where users can modify video content simply by editing the transcript. The slide highlights how this simplifies editing for non-technical users."
+    "what": "Overview of Microsoft Clipchamp's optimization features for refining AI-generated videos with professional polish. The slide highlights four core capabilities presented with visual icons: Trim & Cut for precise editing tools that ensure perfect timing; Transitions for smooth scene changes that enhance flow; Text Overlays for adding titles and captions professionally; and Color Grade for applying cinematic looks with one click. Positions Clipchamp as an intuitive tool for post-production refinement."
   },
   {
     "id": "idea_to_screen_pdf_06",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "How does it work? (Descript)",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "Edit with Descript",
     "url": "idea_to_screen",
     "slide_id": 6,
-    "what": "This slide breaks down the AI technologies behind Descript, including speech-to-text models, natural language processing, generative AI for voice cloning or overdubbing, and computer vision for understanding video scenes."
+    "what": "Getting started guide for Descript, emphasizing its unique document-style video editing approach. Provides step-by-step instructions: accessing Descript website, creating an account via Google, uploading a video or providing a link, and editing the clip just like editing a text document. This revolutionary approach allows users to edit video content by simply editing the transcribed text. Includes security reminder to disconnect Descript from Google account after use."
   },
   {
     "id": "idea_to_screen_pdf_07",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Play: A Puppy Pizza?",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "How Descript Works",
     "url": "idea_to_screen",
     "slide_id": 7,
-    "what": "A playful and creative example demonstrating the imaginative possibilities of AI video generation. This slide shows how unconventional or humorous prompts can still produce coherent and engaging video outputs."
+    "what": "Technical breakdown of Descript's AI-powered editing capabilities across four key technologies. Deep learning enables speech-to-text transcription and realistic voice synthesis for seamless editing. Natural Language Processing (NLP) provides content understanding and manipulation capabilities. Generative AI allows users to create avatars, generate voiceovers, and automate complex editing tasks. Computer vision technology analyzes scenes, applies effects, and understands visual content. This slide explains the sophisticated AI infrastructure that makes text-based video editing possible."
   },
   {
     "id": "idea_to_screen_pdf_08",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Play: Work with a Parallel Video RAG",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "Explore: Use AI to Learn About AI",
     "url": "idea_to_screen",
     "slide_id": 8,
-    "what": "A practical, hands-on exercise using Invideo AI to generate a video about India’s construction sector. The slide guides users through prompt writing, choosing a video format, and editing the generated script and visuals."
+    "what": "Interactive learning interface guide featuring a QR code for instant access. Details the user journey in four steps: scanning the QR code to access the AI learning interface instantly, signing in with a Google account (temporary), reading an AI-generated summary overview of the topic, and asking questions by selecting recommended or custom queries. This meta-learning approach encourages users to leverage AI tools to understand AI concepts, creating a self-reinforcing educational experience."
   },
   {
     "id": "idea_to_screen_pdf_09",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "What Happens in Invideo v2.0?",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "AI Chat Interface",
     "url": "idea_to_screen",
     "slide_id": 9,
-    "what": "Explains the Parallel Retrieval-Augmented Generation process used in Invideo v2.0, where relevant stock video clips and background music are retrieved or generated simultaneously to match the script’s context and tone."
+    "what": "Comprehensive overview of the AI chat interface features and interface elements. Highlights user-friendly features including emoji reactions for quick feedback, message counter showing remaining interactions, context-based suggested questions, follow-up conversations with memory retention, input field with character count for message composition, animated send button, history scroll for reviewing previous messages, and clear chat option for starting new sessions. This slide demonstrates the thoughtful UX design that makes AI interaction intuitive and engaging."
   },
   {
     "id": "idea_to_screen_pdf_10",
     "type": "page",
-    "deck_name": "Play: From Idea to Screen 🪄",
-    "title": "Explore: Use AI to learn about AI",
+    "deck_name": "Play: From Idea to Screen",
+    "title": "From Idea to Screen: Your Workflow",
     "url": "idea_to_screen",
     "slide_id": 10,
-    "what": "Closing slide encouraging learners to use AI tools to further explore AI concepts themselves, such as summarizing content, asking questions, and learning interactively, supported by a QR code for continued engagement."
+    "what": "Summary and workflow consolidation slide presenting the complete four-step video production process. Step 1: Invideo AI for generating video with parallel RAG technology. Step 2: Descript for document-style editing. Step 3: Clipchamp for optimization with professional tools. Step 4: Explore and learn about AI using AI. The slide concludes with an empowering message about completing the entire video production workflow from initial concept to polished final product using the most powerful AI tools available today, positioning users to become efficient video creators through AI-augmented workflows."
   }
 ]
