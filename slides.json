@@ -1,101 +1,92 @@
 [
   {
-    "id": "gen_ai_marketing_pdf_01",
+    "id": "genai_marketing_pdf_01",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
-    "title": "Generative AI in Marketing",
-    "url": "generative_ai_marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
+    "title": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
+    "url": "genai_marketing",
     "slide_id": 1,
-    "what": "Title slide introducing Generative AI in Marketing course covering concepts, tools, and hands-on workflows. Application-oriented guide for MBA and executive learners."
+    "what": "Title slide introducing the course on Generative AI in Marketing. It sets the scope of the session, covering core concepts, practical tools, and hands-on workflows marketers will use to apply GenAI in real-world scenarios."
   },
   {
-    "id": "gen_ai_marketing_pdf_02",
+    "id": "genai_marketing_pdf_02",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
     "title": "Gen AI Landscape for Marketing",
-    "url": "generative_ai_marketing",
+    "url": "genai_marketing",
     "slide_id": 2,
-    "what": "Overview of AI landscape: Foundation Models (GPT-4, Claude), Fine-Tuned Models for marketing tasks, and Application Tools (ChatGPT, Midjourney, Runway). Maps AI applications across marketing funnel - Awareness (ad copy, social media), Conversion (landing pages, email campaigns), and Retention (personalized messaging, customer support). Includes tool selection criteria: output quality, integration, cost, brand safety, and compliance."
+    "what": "Explains the Generative AI landscape for marketing, covering foundation models, fine-tuned models, and application-layer AI. It also maps GenAI use cases across the marketing funnel from awareness to retention and highlights commonly used tools like ChatGPT, Midjourney, and Runway."
   },
   {
-    "id": "gen_ai_marketing_pdf_03",
+    "id": "genai_marketing_pdf_03",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
-    "title": "Using LLMs for Marketing Content",
-    "url": "generative_ai_marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
+    "title": "Using LLMs (ChatGPT / Claude) for Marketing Content",
+    "url": "genai_marketing",
     "slide_id": 3,
-    "what": "Explains Large Language Models (LLMs) and their limitations (hallucinations, bias, overconfidence). Four-step prompting framework: Define Role, Define Task, Add Details, Refine Outputs. Applications include ad copy variations, email campaigns, and website content using ChatGPT, Claude, and Jasper."
+    "what": "Describes how large language models like ChatGPT and Claude are used for marketing content creation. The slide explains strengths such as creativity, speed, and adaptability, outlines common risks like hallucinations and bias, and provides a step-by-step guide for effective usage in ad copy, emails, and website content."
   },
   {
-    "id": "gen_ai_marketing_pdf_04",
+    "id": "genai_marketing_pdf_04",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
     "title": "Transformer & Attention: Why AI Understands Context",
-    "url": "generative_ai_marketing",
+    "url": "genai_marketing",
     "slide_id": 4,
-    "what": "Technical explanation of Transformer architecture, Attention mechanism (focusing on relevant context), Tokens & Embeddings, and Context Windows. Practical tips for maintaining brand voice: define tone early, reference previous outputs, use style guides. Strategies for when context is lost: re-state guidelines, summarize key points, start new chat."
+    "what": "Explains the transformer architecture and attention mechanism that power modern LLMs. It covers how attention helps models understand context, the role of encoders and decoders, and why this matters for marketers when crafting better prompts and troubleshooting AI outputs."
   },
   {
-    "id": "gen_ai_marketing_pdf_05",
+    "id": "genai_marketing_pdf_05",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
-    "title": "RAG, Perplexity & Accuracy",
-    "url": "generative_ai_marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
+    "title": "RAG, Perplexity & Accuracy in Marketing",
+    "url": "genai_marketing",
     "slide_id": 5,
-    "what": "Explains why LLMs hallucinate and introduces Retrieval-Augmented Generation (RAG) - Retrieve from trusted sources, Augment with AI, Generate fact-based output. Covers Perplexity AI workflow for factual research and marketing applications: policy pages, competitive research, market trends, product specifications. Warning: confidence doesn't equal correctness."
+    "what": "Covers why LLMs hallucinate and how Retrieval-Augmented Generation (RAG) improves accuracy by grounding responses in external data. The slide explains perplexity, how to apply it for validation, and marketing use cases such as policy pages, competitive research, and market trend analysis."
   },
   {
-    "id": "gen_ai_marketing_pdf_06",
+    "id": "genai_marketing_pdf_06",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
     "title": "Prompt Engineering as a Core Marketing Skill",
-    "url": "generative_ai_marketing",
+    "url": "genai_marketing",
     "slide_id": 6,
-    "what": "Five-element prompt structure: Role, Objective, Context, Constraints, and Output Format. Compares Zero-Shot (AI infers) vs Few-Shot (provide examples) prompting. Example prompt for eco-friendly sneakers targeting Gen Z. Applications: persona-based ads, localization, A/B testing using ChatGPT, Jasper, and Notion AI."
+    "what": "Introduces prompt engineering as a critical marketing skill. It outlines the core components of effective prompts including role, objective, context, constraints, and output format, and shows how structured prompting leads to better, goal-aligned AI outputs."
   },
   {
-    "id": "gen_ai_marketing_pdf_07",
+    "id": "genai_marketing_pdf_07",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
     "title": "Gen AI for Performance Marketing & Growth",
-    "url": "generative_ai_marketing",
+    "url": "genai_marketing",
     "slide_id": 7,
-    "what": "Distinguishes Generative AI (creates content) from Predictive AI (analyzes patterns). Four-step workflow: Generate 20-30 ad variants, Shortlist themes, Test manually for top performers, Optimize with data. Applications in Ads (Google Performance Max, Copy.ai), SEO (Surfer SEO), and CRO (landing page variants). Emphasizes human review and faster experimentation cycles."
+    "what": "Explains how Generative AI accelerates performance marketing by enabling rapid creative experimentation. The slide compares generative and predictive AI, shows how marketers generate and test variants, and highlights applications across ads, SEO, and CRO with human review emphasized."
   },
   {
-    "id": "gen_ai_marketing_pdf_08",
+    "id": "genai_marketing_pdf_08",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
-    "title": "AI-Driven Personalization & Customer Experience",
-    "url": "generative_ai_marketing",
-    "slide_id": 8,
-    "what": "Four-stage personalization cycle: Customer Data input, AI Generation of personalized content, Delivery via email/web/chatbot, and Feedback Loop for continuous optimization. Explains real-time adaptation beyond static segments and risks of over-personalization (privacy, uncanny valley). Applications: personalized emails, dynamic landing pages, AI chatbots using ChatGPT, HubSpot AI, and Salesforce Einstein."
-  },
-  {
-    "id": "gen_ai_marketing_pdf_09",
-    "type": "page",
-    "deck_name": "Generative AI in Marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
     "title": "Creating Marketing Videos Using Gen AI",
-    "url": "generative_ai_marketing",
-    "slide_id": 9,
-    "what": "Compares traditional (days/weeks, expensive) vs AI-assisted video workflow (hours, cost-effective). Five-step process: Generate Script (ChatGPT), Paste to Tool, Select Style/templates, Auto-Captions, and Export. Covers Text-to-Video and Avatar-Based approaches. Tools: Runway, Pictory, Synthesia, Descript. Ethical note: disclose AI-generated content."
+    "url": "genai_marketing",
+    "slide_id": 8,
+    "what": "Explains how GenAI is transforming video creation. It compares traditional and AI-assisted workflows, outlines types of AI-generated videos, provides a step-by-step creation process, and highlights marketing use cases such as social ads, explainers, and internal communications."
   },
   {
-    "id": "gen_ai_marketing_pdf_10",
+    "id": "genai_marketing_pdf_09",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
     "title": "AI-Generated Voice & Music for Branding",
-    "url": "generative_ai_marketing",
-    "slide_id": 10,
-    "what": "Explains how neural networks create audio from training data. Voice Cloning (requires permission) vs Synthetic voices. Four-step workflow: Paste Script, Choose Voice/describe mood, Generate Versions, Select Audio. Applications: brand jingles, podcast intros, video voiceovers. Tools: ElevenLabs, Suno, Adobe Podcast. Copyright warning: verify commercial rights."
+    "url": "genai_marketing",
+    "slide_id": 9,
+    "what": "Describes how Generative AI creates synthetic voices and music for branding. The slide covers voice synthesis, voice cloning, music generation, associated risks like copyright and authenticity, and marketing use cases including brand jingles, video voiceovers, and podcast intros."
   },
   {
-    "id": "gen_ai_marketing_pdf_11",
+    "id": "genai_marketing_pdf_10",
     "type": "page",
-    "deck_name": "Generative AI in Marketing",
-    "title": "Course Grading & How to Score an A",
-    "url": "generative_ai_marketing",
-    "slide_id": 11,
-    "what": "Application-focused grading: A grade for custom Gen AI project with implementation, B for working demo/prototype, C+ for attendance and basic participation. Individual and group work options. Key message: course rewards building, testing, and learning by doing, with creativity encouraged."
+    "deck_name": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
+    "title": "Course Grading, Participation & How to Score an A",
+    "url": "genai_marketing",
+    "slide_id": 10,
+    "what": "Explains the course evaluation criteria, emphasizing hands-on application over exams. It outlines expectations for individual work, group collaboration, creativity, and experimentation, and explains the grading ladder and key message of learning by building and testing."
   }
 ]
