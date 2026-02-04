@@ -39,7 +39,7 @@ def search():
     # FAISS returns L2 distances (lower = more similar)
     # Convert to similarity score (higher = more similar)
     # Threshold: Only return if distance < 1.0 (you can adjust this)
-    RELEVANCE_THRESHOLD = 1.0
+    RELEVANCE_THRESHOLD = 1.5
     
     results = []
     for i, idx in enumerate(indices[0]):
@@ -71,4 +71,5 @@ def search():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+
 
