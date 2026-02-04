@@ -1,92 +1,92 @@
 [
   {
-    "id": "tragcag_pdf_01",
+    "id": "idea_to_screen_pdf_01",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Play: From Idea to Screen 🪄",
+    "url": "idea_to_screen",
     "slide_id": 1,
-    "what": "Title and introduction slide setting the context for how transformers, RAG, and CAG enable the next generation of intelligent, personalized marketing at scale."
+    "what": "Opening and title slide for the module 'Play: From Idea to Screen'. This slide introduces the overall journey of converting a creative idea into a finished video using AI tools, setting expectations for hands-on learning and experimentation."
   },
   {
-    "id": "tragcag_pdf_02",
+    "id": "idea_to_screen_pdf_02",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "What is a Transformer in Generative AI?",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Play: Lights. Camera. Prompt.",
+    "url": "idea_to_screen",
     "slide_id": 2,
-    "what": "Explains transformer architecture as the foundation of large language models, focusing on attention mechanisms, context understanding, and why this technology enables fluent, human-like text generation."
+    "what": "This slide introduces the concept of prompt-driven video creation. It explains how writing clear, descriptive text prompts can act like a script or director’s instructions, allowing AI tools to generate cinematic video content from words alone."
   },
   {
-    "id": "tragcag_pdf_03",
+    "id": "idea_to_screen_pdf_03",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "Introducing Retrieval-Augmented Generation (RAG)",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Viki as 1890’s portrait hanging in Dracula",
+    "url": "idea_to_screen",
     "slide_id": 3,
-    "what": "Introduces Retrieval-Augmented Generation and explains how it connects large language models with real-time external knowledge sources to keep AI outputs current and accurate."
+    "what": "A detailed example of an AI video prompt showing how rich descriptions influence output quality. The slide describes a character emerging from an ornate 1890s portrait in a gothic setting, along with specific music cues, demonstrating how visual and audio prompts work together."
   },
   {
-    "id": "tragcag_pdf_04",
+    "id": "idea_to_screen_pdf_04",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "How RAG Works: Step-by-Step",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Play: Optimize with Clipchamp",
+    "url": "idea_to_screen",
     "slide_id": 4,
-    "what": "Walks through the RAG process step by step, showing how a user query triggers semantic vector search, augments the prompt, and produces a grounded, factual LLM response."
+    "what": "This slide introduces Microsoft Clipchamp as a post-generation optimization tool. It focuses on how AI-generated videos can be refined through trimming, formatting, resizing, and adding final edits to make them suitable for marketing or social platforms."
   },
   {
-    "id": "tragcag_pdf_05",
+    "id": "idea_to_screen_pdf_05",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "Why RAG Works for Marketing",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Play: Edit with Descript",
+    "url": "idea_to_screen",
     "slide_id": 5,
-    "what": "Explains why RAG is powerful for marketing use cases, highlighting real-time knowledge access, reduced hallucinations, and the ability to generate dynamic, trustworthy content."
+    "what": "Explains Descript’s unique text-based approach to video editing, where users can modify video content simply by editing the transcript. The slide highlights how this simplifies editing for non-technical users."
   },
   {
-    "id": "tragcag_pdf_06",
+    "id": "idea_to_screen_pdf_06",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "Cache-Augmented Generation (CAG)",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "How does it work? (Descript)",
+    "url": "idea_to_screen",
     "slide_id": 6,
-    "what": "Introduces Cache-Augmented Generation and explains how static, high-value knowledge is preloaded into a model’s cache for instant access without repeated retrieval calls."
+    "what": "This slide breaks down the AI technologies behind Descript, including speech-to-text models, natural language processing, generative AI for voice cloning or overdubbing, and computer vision for understanding video scenes."
   },
   {
-    "id": "tragcag_pdf_07",
+    "id": "idea_to_screen_pdf_07",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "RAG vs CAG: Key Differences for Marketers",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Play: A Puppy Pizza?",
+    "url": "idea_to_screen",
     "slide_id": 7,
-    "what": "Compares RAG and CAG across data freshness, latency, cost, and ideal use cases, helping marketers choose the right approach based on content needs."
+    "what": "A playful and creative example demonstrating the imaginative possibilities of AI video generation. This slide shows how unconventional or humorous prompts can still produce coherent and engaging video outputs."
   },
   {
-    "id": "tragcag_pdf_08",
+    "id": "idea_to_screen_pdf_08",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "Combining RAG and CAG: Best of Both Worlds",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Play: Work with a Parallel Video RAG",
+    "url": "idea_to_screen",
     "slide_id": 8,
-    "what": "Describes a hybrid architecture that combines CAG for static knowledge and RAG for dynamic data, achieving an optimal balance of speed, cost efficiency, and accuracy."
+    "what": "A practical, hands-on exercise using Invideo AI to generate a video about India’s construction sector. The slide guides users through prompt writing, choosing a video format, and editing the generated script and visuals."
   },
   {
-    "id": "tragcag_pdf_09",
+    "id": "idea_to_screen_pdf_09",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "Marketing Use Cases Powered by RAG & CAG",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "What Happens in Invideo v2.0?",
+    "url": "idea_to_screen",
     "slide_id": 9,
-    "what": "Highlights real-world marketing applications such as personalized campaigns, instant chatbot support, dynamic social media content, and consistent compliance messaging."
+    "what": "Explains the Parallel Retrieval-Augmented Generation process used in Invideo v2.0, where relevant stock video clips and background music are retrieved or generated simultaneously to match the script’s context and tone."
   },
   {
-    "id": "tragcag_pdf_10",
+    "id": "idea_to_screen_pdf_10",
     "type": "page",
-    "deck_name": "Transformers, RAGs, and CAGs in Generative AI for Marketing",
-    "title": "The Future of Marketing AI: Strategic Adoption",
-    "url": "transformers_rag_cag_marketing",
+    "deck_name": "Play: From Idea to Screen 🪄",
+    "title": "Explore: Use AI to learn about AI",
+    "url": "idea_to_screen",
     "slide_id": 10,
-    "what": "Concluding slide outlining how marketers should adopt transformer-based AI strategically, match architectures to use cases, and scale AI initiatives thoughtfully."
+    "what": "Closing slide encouraging learners to use AI tools to further explore AI concepts themselves, such as summarizing content, asking questions, and learning interactively, supported by a QR code for continued engagement."
   }
 ]
