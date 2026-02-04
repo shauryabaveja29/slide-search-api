@@ -36,16 +36,16 @@ def search():
     # Search FAISS index
     distances, indices = index.search(query_embedding, 3)
     
-    # FAISS returns L2 distances (lower = more similar)
-    # Convert to similarity score (higher = more similar)
-    # Threshold: Only return if distance < 1.0 (you can adjust this)
-    RELEVANCE_THRESHOLD = 1.5
+    # More lenient threshold - adjust based on testing
+    RELEVANCE_THRESHOLD = 100.0  # Very lenient for now
     
     results = []
     for i, idx in enumerate(indices[0]):
         distance = distances[0][i]
         
-        # Only include if relevant enough
+        # Debug: Let's see what distances we're getting
+        print(f"Slide {idx}: distance = {distance}")
+        
         if distance < RELEVANCE_THRESHOLD:
             slide = slides[idx]
             results.append({
@@ -53,10 +53,9 @@ def search():
                 "slide_id": slide['slide_id'],
                 "title": slide['title'],
                 "what": slide['what'],
-                "relevance_score": float(1 / (1 + distance))  # Convert to 0-1 score
+                "distance": float(distance)  # Show actual distance for debugging
             })
     
-    # If no relevant results
     if len(results) == 0:
         return jsonify({
             "query": query,
@@ -71,5 +70,6 @@ def search():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+
 
 
