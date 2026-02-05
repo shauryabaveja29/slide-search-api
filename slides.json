@@ -6,7 +6,7 @@
     "title": "Generative AI in Marketing: Concepts, Tools & Hands-On Workflows",
     "url": "genai_marketing",
     "slide_id": 1,
-    "what": "Title slide introducing the course on Generative AI in Marketing. It sets the scope of the session, covering core concepts, practical tools, and hands-on workflows marketers will use to apply GenAI in real-world scenarios."
+    "what": "Title slide introducing the course on Generative AI in Marketing, covering core concepts, tools, and hands-on workflows for applying GenAI in real-world marketing scenarios.\n\nThis topic is commonly searched using phrases like \"what is this course about\", \"introduction to generative AI in marketing\", and \"overview of GenAI for marketers\"."
   },
   {
     "id": "genai_marketing_pdf_02",
@@ -15,7 +15,7 @@
     "title": "Gen AI Landscape for Marketing",
     "url": "genai_marketing",
     "slide_id": 2,
-    "what": "Explains the Generative AI landscape for marketing, covering foundation models, fine-tuned models, and application-layer AI. It also maps GenAI use cases across the marketing funnel from awareness to retention and highlights commonly used tools like ChatGPT, Midjourney, and Runway."
+    "what": "Explains the Generative AI landscape for marketing, including foundation models, fine-tuned models, application-layer tools, and how GenAI is used across the marketing funnel from awareness to retention.\n\nThis topic is commonly searched using phrases like \"GenAI landscape\", \"types of AI models in marketing\", \"foundation vs fine-tuned models\", and \"AI tools across the marketing funnel\"."
   },
   {
     "id": "genai_marketing_pdf_03",
@@ -24,7 +24,7 @@
     "title": "Using LLMs (ChatGPT / Claude) for Marketing Content",
     "url": "genai_marketing",
     "slide_id": 3,
-    "what": "Describes how large language models like ChatGPT and Claude are used for marketing content creation. The slide explains strengths such as creativity, speed, and adaptability, outlines common risks like hallucinations and bias, and provides a step-by-step guide for effective usage in ad copy, emails, and website content."
+    "what": "Describes how large language models such as ChatGPT and Claude are used for marketing content creation, including ad copy, emails, and website content, along with their strengths, risks, and best practices.\n\nThis topic is commonly searched using phrases like \"use ChatGPT for marketing\", \"AI for content writing\", \"how to write ads using AI\", and \"LLMs for marketing content\"."
   },
   {
     "id": "genai_marketing_pdf_04",
@@ -33,7 +33,7 @@
     "title": "Transformer & Attention: Why AI Understands Context",
     "url": "genai_marketing",
     "slide_id": 4,
-    "what": "Explains the transformer architecture and attention mechanism that power modern LLMs. It covers how attention helps models understand context, the role of encoders and decoders, and why this matters for marketers when crafting better prompts and troubleshooting AI outputs."
+    "what": "Explains the transformer architecture and attention mechanism that power modern LLMs, showing how AI understands context and why this matters for prompt quality and marketing outputs.\n\nThis topic is commonly searched using phrases like \"how ChatGPT understands context\", \"what is a transformer model\", \"attention mechanism explained\", and \"how LLMs work\"."
   },
   {
     "id": "genai_marketing_pdf_05",
@@ -42,7 +42,7 @@
     "title": "RAG, Perplexity & Accuracy in Marketing",
     "url": "genai_marketing",
     "slide_id": 5,
-    "what": "Covers why LLMs hallucinate and how Retrieval-Augmented Generation (RAG) improves accuracy by grounding responses in external data. The slide explains perplexity, how to apply it for validation, and marketing use cases such as policy pages, competitive research, and market trend analysis."
+    "what": "Explains why large language models hallucinate and how Retrieval-Augmented Generation (RAG) and perplexity help improve accuracy, reliability, and trust in marketing outputs.\n\nThis topic is commonly searched using phrases like \"why AI hallucinates\", \"what is RAG in AI\", \"how to reduce hallucinations\", \"perplexity explained\", and \"AI accuracy in marketing\"."
   },
   {
     "id": "genai_marketing_pdf_06",
@@ -51,7 +51,7 @@
     "title": "Prompt Engineering as a Core Marketing Skill",
     "url": "genai_marketing",
     "slide_id": 6,
-    "what": "Introduces prompt engineering as a critical marketing skill. It outlines the core components of effective prompts including role, objective, context, constraints, and output format, and shows how structured prompting leads to better, goal-aligned AI outputs."
+    "what": "Introduces prompt engineering as a core marketing skill, explaining how role, objective, context, constraints, and output format improve the quality of AI-generated results.\n\nThis topic is commonly searched using phrases like \"what is prompt engineering\", \"how to write better prompts\", \"prompt structure for marketing\", and \"prompting best practices\"."
   },
   {
     "id": "genai_marketing_pdf_07",
@@ -60,7 +60,7 @@
     "title": "Gen AI for Performance Marketing & Growth",
     "url": "genai_marketing",
     "slide_id": 7,
-    "what": "Explains how Generative AI accelerates performance marketing by enabling rapid creative experimentation. The slide compares generative and predictive AI, shows how marketers generate and test variants, and highlights applications across ads, SEO, and CRO with human review emphasized."
+    "what": "Explains how Generative AI accelerates performance marketing and growth by enabling rapid creative generation, experimentation, testing, and optimization across channels.\n\nThis topic is commonly searched using phrases like \"AI for performance marketing\", \"GenAI for growth marketing\", \"AI for ad testing\", and \"generative vs predictive AI\"."
   },
   {
     "id": "genai_marketing_pdf_08",
@@ -69,7 +69,7 @@
     "title": "Creating Marketing Videos Using Gen AI",
     "url": "genai_marketing",
     "slide_id": 8,
-    "what": "Explains how GenAI is transforming video creation. It compares traditional and AI-assisted workflows, outlines types of AI-generated videos, provides a step-by-step creation process, and highlights marketing use cases such as social ads, explainers, and internal communications."
+    "what": "Explains how marketers use Generative AI to create videos, comparing traditional and AI-assisted workflows, outlining video types, creation steps, and key marketing use cases.\n\nThis topic is commonly searched using phrases like \"how to create videos using AI\", \"AI video creation tools\", \"text to video AI\", and \"GenAI for video marketing\"."
   },
   {
     "id": "genai_marketing_pdf_09",
@@ -78,7 +78,7 @@
     "title": "AI-Generated Voice & Music for Branding",
     "url": "genai_marketing",
     "slide_id": 9,
-    "what": "Describes how Generative AI creates synthetic voices and music for branding. The slide covers voice synthesis, voice cloning, music generation, associated risks like copyright and authenticity, and marketing use cases including brand jingles, video voiceovers, and podcast intros."
+    "what": "Describes how Generative AI creates synthetic voices and music for branding, including voice synthesis, music composition, associated risks, and marketing use cases such as jingles and voiceovers.\n\nThis topic is commonly searched using phrases like \"how to make a song using AI\", \"AI music generation\", \"create music with AI\", \"AI voiceover tools\", and \"AI-generated jingles\"."
   },
   {
     "id": "genai_marketing_pdf_10",
@@ -87,6 +87,6 @@
     "title": "Course Grading, Participation & How to Score an A",
     "url": "genai_marketing",
     "slide_id": 10,
-    "what": "Explains the course evaluation criteria, emphasizing hands-on application over exams. It outlines expectations for individual work, group collaboration, creativity, and experimentation, and explains the grading ladder and key message of learning by building and testing."
+    "what": "Explains the course grading and evaluation criteria, emphasizing hands-on application, experimentation, collaboration, and real-world implementation over traditional exams.\n\nThis topic is commonly searched using phrases like \"how is this course graded\", \"how to score an A\", \"course evaluation criteria\", and \"class participation expectations\"."
   }
 ]
