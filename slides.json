@@ -42,7 +42,7 @@
     "title": "RAG, Perplexity & Accuracy in Marketing",
     "url": "genai_marketing",
     "slide_id": 5,
-    "what": "Explains why large language models sometimes hallucinate and how Retrieval-Augmented Generation (RAG) and perplexity improve accuracy and reliability. This slide focuses on correctness and grounding, not on general AI functioning or end-user tasks."
+    "what": "Explains why large language models sometimes produce wrong or incorrect answers, a phenomenon commonly referred to as hallucination. This slide explains how Retrieval-Augmented Generation (RAG) and perplexity help improve accuracy, grounding, and reliability of AI outputs. This slide focuses on why AI gives wrong answers and how those errors are reduced."
   },
   {
     "id": "genai_marketing_pdf_06",
@@ -90,3 +90,4 @@
     "what": "Explains course grading criteria, participation expectations, and evaluation methods. This slide is administrative and unrelated to AI concepts, mechanisms, or applications."
   }
 ]
+
