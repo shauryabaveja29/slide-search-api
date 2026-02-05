@@ -37,7 +37,7 @@ def search():
     distances, indices = index.search(query_embedding, 3)
     
     # More lenient threshold - adjust based on testing
-    RELEVANCE_THRESHOLD = 100.0  # Very lenient for now
+    RELEVANCE_THRESHOLD = 37.0  # Very lenient for now
     
     results = []
     for i, idx in enumerate(indices[0]):
@@ -70,6 +70,7 @@ def search():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+
 
 
 
